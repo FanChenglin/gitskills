@@ -2,3 +2,4 @@
 insert a commit in gitskills.
 Creating a new branch is quick and simple.
 Git branch manage forbid Fast forward.
+Git bug issue.
